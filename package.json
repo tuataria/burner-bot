@@ -1,0 +1,24 @@
+{
+  "name": "burner-bot",
+  "version": "1.0.0",
+  "description": "Simple Discord bot for ritually burning a collection of messages. 🔥",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuataria/burner-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tuataria/burner-bot/issues"
+  },
+  "homepage": "https://github.com/tuataria/burner-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
